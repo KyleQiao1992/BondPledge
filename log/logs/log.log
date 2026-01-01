@@ -1,0 +1,3 @@
+{"level":"info","time":"2026-01-01T07:39:01.590-0500","line":"/Users/kyleqiao/Desktop/web3/BondPledge/db/mysql.go:16","msg":"Connecting to MySQL...","serviceName":"pledge"}
+{"level":"panic","time":"2026-01-01T07:39:01.658-0500","line":"/Users/kyleqiao/Desktop/web3/BondPledge/db/mysql.go:39","msg":"mysql connention error ==>  Error 1049 (42000): Unknown database 'pledge_dev'","serviceName":"pledge"}
+{"level":"info","time":"2026-01-01T07:44:32.064-0500","line":"/Users/kyleqiao/Desktop/web3/BondPledge/db/mysql.go:16","msg":"Connecting to MySQL...","serviceName":"pledge"}
