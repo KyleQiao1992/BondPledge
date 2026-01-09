@@ -1,3 +1,14 @@
 {"level":"info","time":"2026-01-01T07:39:01.590-0500","line":"/Users/kyleqiao/Desktop/web3/BondPledge/db/mysql.go:16","msg":"Connecting to MySQL...","serviceName":"pledge"}
 {"level":"panic","time":"2026-01-01T07:39:01.658-0500","line":"/Users/kyleqiao/Desktop/web3/BondPledge/db/mysql.go:39","msg":"mysql connention error ==>  Error 1049 (42000): Unknown database 'pledge_dev'","serviceName":"pledge"}
 {"level":"info","time":"2026-01-01T07:44:32.064-0500","line":"/Users/kyleqiao/Desktop/web3/BondPledge/db/mysql.go:16","msg":"Connecting to MySQL...","serviceName":"pledge"}
+{"level":"info","time":"2026-01-08T17:36:23.917-0500","line":"/Users/kyleqiao/Desktop/web3/BondPledge/db/mysql.go:16","msg":"Connecting to MySQL...","serviceName":"pledge"}
+{"level":"info","time":"2026-01-08T17:36:24.032-0500","line":"/Users/kyleqiao/Desktop/web3/BondPledge/db/redis.go:15","msg":"Init Redis","serviceName":"pledge"}
+{"level":"info","time":"2026-01-08T17:36:53.937-0500","line":"/Users/kyleqiao/Desktop/web3/BondPledge/db/mysql.go:16","msg":"Connecting to MySQL...","serviceName":"pledge"}
+{"level":"info","time":"2026-01-08T17:37:01.695-0500","line":"/Users/kyleqiao/Desktop/web3/BondPledge/db/mysql.go:16","msg":"Connecting to MySQL...","serviceName":"pledge"}
+{"level":"info","time":"2026-01-08T17:37:03.377-0500","line":"/Users/kyleqiao/Desktop/web3/BondPledge/db/mysql.go:16","msg":"Connecting to MySQL...","serviceName":"pledge"}
+{"level":"info","time":"2026-01-08T17:37:30.093-0500","line":"/Users/kyleqiao/Desktop/web3/BondPledge/db/mysql.go:16","msg":"Connecting to MySQL...","serviceName":"pledge"}
+{"level":"info","time":"2026-01-08T17:39:57.357-0500","line":"/Users/kyleqiao/Desktop/web3/BondPledge/db/mysql.go:16","msg":"Connecting to MySQL...","serviceName":"pledge"}
+{"level":"info","time":"2026-01-08T17:42:25.312-0500","line":"/Users/kyleqiao/Desktop/web3/BondPledge/db/mysql.go:16","msg":"Connecting to MySQL...","serviceName":"pledge"}
+{"level":"info","time":"2026-01-08T17:46:32.810-0500","line":"/Users/kyleqiao/Desktop/web3/BondPledge/db/mysql.go:16","msg":"Init Mysql","serviceName":"pledge"}
+{"level":"info","time":"2026-01-08T17:47:54.977-0500","line":"/Users/kyleqiao/Desktop/web3/BondPledge/db/mysql.go:16","msg":"Init Mysql","serviceName":"pledge"}
+{"level":"info","time":"2026-01-08T17:47:55.037-0500","line":"/Users/kyleqiao/Desktop/web3/BondPledge/api/bond_pledge_api.go:18","msg":"Init Mysql Init Done","serviceName":"pledge"}
